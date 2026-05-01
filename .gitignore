@@ -1,0 +1,16 @@
+# Ignore generated data
+npy/
+npy.zip
+
+# Ignore datasets / raw data
+videos/
+frames_without_resize_crop/
+
+# Ignore models
+mediaPipe_models/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
